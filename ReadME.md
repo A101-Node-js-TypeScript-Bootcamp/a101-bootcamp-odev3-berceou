@@ -102,7 +102,7 @@ Son olarak, tablo oluşturmak ve kullanmak için [AWS dökümantasyonu](https://
 
 ***Routes:*** Projede birden çok kez kullanılacak olan işlevleri ve endpointleri tutan ve controller'a yönlendirmek için kullanılır. 
 
-</br></br></br></br></br></br>  
+</br></br></br></br>  
 
 # SQL ve NoSQL Farklılıkları
 Aşağıda verilen tablo özet niteliğindedir. Detaylı içeriğe [link](https://github.com/A101-Node-js-TypeScript-Bootcamp/a101-bootcamp-odev3-berceou/blob/main/NoSQL-vs-SQL/Differences-NoSQL-SQL.md) aracılığıyla ulaşabilirsiniz.  

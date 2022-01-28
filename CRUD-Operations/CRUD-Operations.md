@@ -30,9 +30,7 @@ Packages: Express, Nodemon, AWS-sdk, uuid, dotenv
 Data Base: AWS DynamoDB  
 
 # Directory Structure
-```
-+---config  
-|   |       config.js  
+```  
 +---controllers  
 |   |       Product.js  
 +---routes  
@@ -44,6 +42,10 @@ Data Base: AWS DynamoDB
 |   index.js  
 |   package.json  
 |   package-lock.json  
+|   config.json
+|   .env
++---node_modules
+|   .gitignore
 ```
 
 * alttaki tüm adımlar için apı yazımı ekle. postman çıktısını ss ekle. 

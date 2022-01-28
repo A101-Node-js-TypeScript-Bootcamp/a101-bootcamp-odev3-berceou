@@ -105,7 +105,7 @@ Son olarak, tablo oluşturmak ve kullanmak için [AWS dökümantasyonu](https://
 </br></br></br></br></br></br>  
 
 # SQL ve NoSQL Farklılıkları
-Aşağıda verilen tablo özet niteliğindedir. Detaylı içeriğe [link](https://github.com/A101-Node-js-TypeScript-Bootcamp/a101-bootcamp-odev3-berceou/tree/main/NoSQL-vs-SQL) aracılığıyla ulaşabilirsiniz.  
+Aşağıda verilen tablo özet niteliğindedir. Detaylı içeriğe [link](https://github.com/A101-Node-js-TypeScript-Bootcamp/a101-bootcamp-odev3-berceou/blob/main/NoSQL-vs-SQL/Differences-NoSQL-SQL.md) aracılığıyla ulaşabilirsiniz.  
 
 </br>  
 

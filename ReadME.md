@@ -32,7 +32,7 @@ Bu repo, A101 ve Patika işbirliğinde gerçekleşen Amazon Lambda & DynamoDB Bo
 </br></br>  
 
 # Node.js ve AWS DynamoDB ile CRUD İşlemleri
-Aşağıda genel bilgiler ve ön hazırlık aşamaları verilmiştir. Ayrıntılı CRUD işlemlerine [link](https://github.com/A101-Node-js-TypeScript-Bootcamp/a101-bootcamp-odev3-berceou/tree/main/CRUD-Operations) aracılığıyla ulaşabilirsiniz.  
+Aşağıda genel bilgiler ve ön hazırlık aşamaları verilmiştir. Ayrıntılı CRUD işlemlerine [link](https://github.com/A101-Node-js-TypeScript-Bootcamp/a101-bootcamp-odev3-berceou/blob/main/CRUD-Operations/CRUD-Operations.md) aracılığıyla ulaşabilirsiniz.  
 </br>  
 
 **Express**, Node.js üzerine web uygulamaları oluşturmaya yönelik bir frameworktür. Node.js'de zaten mevcut olan sunucu oluşturma sürecini basitleştirir.  

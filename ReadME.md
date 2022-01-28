@@ -89,7 +89,7 @@ Son olarak, tablo oluşturmak ve kullanmak için [AWS dökümantasyonu](https://
 </br>  
 
 <img align="left" width=200 src="CRUD-Operations\img\folder-structure.png">  
-</br></br></br></br></br>
+</br></br>  
 
 ***Config.JSON:*** Bu klasör, yapılandırmayla ilgili yani DynamoDB AWS SDK örneğini dışa aktaracak koda sahip olan dosyayı içerir. Bu sayede DynamoDB API'leri istenilen her yere DynamoDB örneğini yazmak yerine aktararak işlem yapılmaktadır.    
 </br>  
